@@ -23,7 +23,7 @@ https://react-redux-starter-kit.netlify.com/
  * Sass
 ### Klasör Yapısı
 
- * Layout (Masterpage) Yapısı
+ * layout (Masterpage) Yapısı
  * assets(style ve img) dosyası
  * components(Componentlerin bulunduğu klasör)
  * store(redux kurulumun yapıldığı yer)
