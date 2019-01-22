@@ -4,7 +4,10 @@
 
 ## Facebook'un paylaşmış olduğu react-scripts üzerine  kurulan bir başlangıç kitidir.
 
-## Paket İçeriği 
+## DEMO
+https://react-redux-starter-kit.netlify.com/
+
+### Paket İçeriği 
 
  * React 16.7
  * Redux 4.0.1
@@ -18,7 +21,7 @@
  * React Router Dom
  * Axios
  * Sass
-## Klasör Yapısı
+### Klasör Yapısı
 
  * Layout (Masterpage) Yapısı
  * assets(style ve img) dosyası
@@ -26,7 +29,7 @@
  * store(redux kurulumun yapıldığı yer)
  * views(Sayfaların bulunduğu klasör)
   
-## Kurulum
+### Kurulum
   
   * Projeyi kopyaladıktan sonra 'npm install' komutu ile bağımlılıkları yüklüyoruz.
   * Yükleme tamamlandıktan sonra npm start diyip projeyi ayağa kaldırabiliriz.
