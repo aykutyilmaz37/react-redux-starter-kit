@@ -6,27 +6,27 @@
 
 ## Paket İçeriği 
 
- * 1.React 16.7
- * 2.Redux 4.0.1
- * 3.Bootstrap 3
- * 4.React-Bootstrap
- * 5.React Scripts
- * 6.Redux Thunk
- * 7.Redux Logger
- * 8.Redux Promise
- * 9.React Router
- * 10.React Router Dom
- * 11.Axios
- * 12.Sass
+ * React 16.7
+ * Redux 4.0.1
+ * Bootstrap 3
+ * React-Bootstrap
+ * React Scripts
+ * Redux Thunk
+ * Redux Logger
+ * Redux Promise
+ * React Router
+ * React Router Dom
+ * Axios
+ * Sass
 ## Klasör Yapısı
 
- * 1.Layout (Masterpage) Yapısı
- * 2.assets(style ve img) dosyası
- * 3.components(Componentlerin bulunduğu klasör)
- * 4.store(redux kurulumun yapıldığı yer)
- * 5.views(Sayfaların bulunduğu klasör)
+ * Layout (Masterpage) Yapısı
+ * assets(style ve img) dosyası
+ * components(Componentlerin bulunduğu klasör)
+ * store(redux kurulumun yapıldığı yer)
+ * views(Sayfaların bulunduğu klasör)
   
 ## Kurulum
   
-  * 1. Projeyi kopyaladıktan sonra 'npm install' komutu ile bağımlılıkları yüklüyoruz.
-  * 2. Yükleme tamamlandıktan sonra npm start diyip projeyi ayağa kaldırabiliriz.
+  * Projeyi kopyaladıktan sonra 'npm install' komutu ile bağımlılıkları yüklüyoruz.
+  * Yükleme tamamlandıktan sonra npm start diyip projeyi ayağa kaldırabiliriz.
